@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/XYdj6NXXo9NbODBtHsN3vOc8GA7CEgChsDFGGw8Xo0=",
+  "Source": "JWTidentityApp",
+  "BasePath": "_content/JWTidentityApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
